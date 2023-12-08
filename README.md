@@ -3,7 +3,9 @@
 </p>
 
 <br />
+
 ## :computer: Technologies that I know
+
 <p align="center">
   <img src="/assests/HTML.png">
   <img src="/assests/css.png">
@@ -15,12 +17,17 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shajjad00&theme=react&card_width=499" />
-</p>
 
-<p align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shajjad00&theme=react&card_width=499)](https://git.io/streak-stats)
-</p>
+## :work: Currently I am working on
+
+## :css: CSS
+
+## :html5:: HTML
+
+## :briefcase:: HTML
+
+## :javascript:: JavaScript
+
+⚛️ React
 
 ### 🌱 Front-end developer building interactive UIs with React, JavaScript, Tailwind CSS, HTML, and CSS. Passionate about learning and contributing to meaningful projects.
