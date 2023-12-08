@@ -8,7 +8,7 @@
 ![Technologies](/assests/tailwind.png)
 
 <p align="center">
-  <img width="460" height="300" src="/assests/css.png">
-  <img width="460" height="300" src="/assests/HTML.png">
-  <img width="460" height="300" src="/assests/JavaScript.png">
+  <img src="/assests/css.png">
+  <img src="/assests/HTML.png">
+  <img src="/assests/JavaScript.png">
 </p>
