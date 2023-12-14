@@ -14,7 +14,7 @@
   <img src="/assests/react.png">
 </p>
 
-## :chart_with_upwards_trend: Profile summary Card
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
