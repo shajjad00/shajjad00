@@ -14,9 +14,10 @@
   <img src="/assests/react.png">
 </p>
 
-## :chart_with_upwards_trend: Current Stats
-
 <br />
+<p align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" />
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
