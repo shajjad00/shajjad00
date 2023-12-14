@@ -13,9 +13,6 @@
   <img src="/assests/JavaScript.png">
   <img src="/assests/react.png">
 </p>
-
-## :chart_with_upwards_trend: Current Stats
-
 <br />
 
 ## :chart_with_upwards_trend: Current Stats
