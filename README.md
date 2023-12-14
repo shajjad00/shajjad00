@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img alt="Light" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" width="45%">
+  <img alt="Light" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" height="480"  width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shajjad00&theme=github_dark" width="45%">
+  <img alt="Dark" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shajjad00&theme=github_dark" height="480" width="45%">
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
