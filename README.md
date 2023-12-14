@@ -19,7 +19,6 @@
 <br />
 <p align="center" display='flex'>
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" />
-  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shajjad00&theme=github_dark" />
 </p>
 
 <p align="center">
