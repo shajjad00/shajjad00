@@ -36,12 +36,12 @@
 </p>
 
 <p align="center">
-   <a href="https://assignment-11-tan-xi.vercel.app/"
+   <a href="https://final-assignment-tau.vercel.app/"
       target="blank" >
-              <img src="./assests/Class crafers.png">
+              <img height="150" width="150" src="./assests/Class crafers.png">
               </a>
-  <img src="./assests/Food Tracker.png">
-  <img src="./assests/food and beverage.png">
+  <img height="150" width="150" src="./assests/Food Tracker.png">
+  <img height="150" width="150" src="./assests/food and beverage.png">
 
 </p>
 [<p align="center"><img height="150" width="150" src="./assests/Class crafers.png">](https://final-assignment-tau.vercel.app/)[<img height="150" width="150" src="./assests/Food Tracker.png">](https://final-assignment-tau.vercel.app/)[<img height="150" width="150" src="./assests/food and beverage.png"> </p>](https://assignment-11-tan-xi.vercel.app/)
