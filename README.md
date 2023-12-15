@@ -35,6 +35,15 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shajjad00&theme=react&card_width=499" />
 </p>
 
+<p align="center">
+   <a href="https://assignment-11-tan-xi.vercel.app/"
+      target="blank" >
+              <img src="./assests/Class crafers.png">
+              </a>
+  <img src="./assests/Food Tracker.png">
+  <img src="./assests/food and beverage.png">
+
+</p>
 [<p align="center"><img height="150" width="150" src="./assests/Class crafers.png">](https://final-assignment-tau.vercel.app/)[<img height="150" width="150" src="./assests/Food Tracker.png">](https://final-assignment-tau.vercel.app/)[<img height="150" width="150" src="./assests/food and beverage.png"> </p>](https://assignment-11-tan-xi.vercel.app/)
 
 ## :briefcase:: Currently Working on
