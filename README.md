@@ -37,13 +37,38 @@
 
 ## :briefcase:: My Projects
 
+## 🌐
+
 <p align="center">
-  <div>
     <img height="220" width="250" src="./assests/Class crafers.png">
     <img height="220" width="250" src="./assests/Food Tracker.png">
-     <img height="220" width="250" src="./assests/food and beverage.png">
-  </div>
+    <img height="220" width="250" src="./assests/food and beverage.png">
 </p>
+
+<table>
+<tr>
+<th>Before Hoisting</th>
+<th>After Hoisting</th>
+</tr>
+<tr>
+<td>
+<pre lang="js">
+console.log(fullName); // undefined
+fullName = "Dariana Trahan";
+console.log(fullName); // Dariana Trahan
+var fullName;
+</pre>
+</td>
+<td>
+<pre lang="js">
+var fullName;
+console.log(fullName); // undefined
+fullName = "Dariana Trahan";
+console.log(fullName); // Dariana Trahan
+</pre>
+</td>
+</tr>
+</table>
 
 ## :briefcase:: Currently Working on
 
