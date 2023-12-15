@@ -36,13 +36,15 @@
 </p>
 
 <p align="center">
-  <div  >
+  <div>
     <img height="220" width="250" src="./assests/Class crafers.png">
-  </div>
-    <div  >
+    <img height="220" width="250" src="./assests/Food Tracker.png">
     <img height="220" width="250" src="./assests/Food Tracker.png">
   </div>
-    <div  >
+    <div>
+    <img height="220" width="250" src="./assests/Food Tracker.png">
+  </div>
+    <div>
     <img height="220" width="250" src="./assests/food and beverage.png">
   </div>
 </p>
