@@ -19,11 +19,10 @@
 <br />
 <p align="center" display='flex'>
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" />
-</p>
-
-<p align="center">
+  <p align="center">
   <img alt="Light" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shajjad00&theme=github_dark" height="480"  width="45%">
   <img alt="Dark" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shajjad00&theme=github_dark" height="480" width="45%">
+</p>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
