@@ -35,17 +35,13 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shajjad00&theme=react&card_width=499" />
 </p>
 
+## :briefcase:: My Projects
+
 <p align="center">
   <div>
     <img height="220" width="250" src="./assests/Class crafers.png">
     <img height="220" width="250" src="./assests/Food Tracker.png">
-    <img height="220" width="250" src="./assests/Food Tracker.png">
-  </div>
-    <div>
-    <img height="220" width="250" src="./assests/Food Tracker.png">
-  </div>
-    <div>
-    <img height="220" width="250" src="./assests/food and beverage.png">
+     <img height="220" width="250" src="./assests/food and beverage.png">
   </div>
 </p>
 
