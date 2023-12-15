@@ -38,23 +38,17 @@
 <p align="center">
   <a href="https://final-assignment-tau.vercel.app/"
       target="blank" >
-    <img height="150" width="150" src="./assests/Class crafers.png">
+    <img height="220" width="250" src="./assests/Class crafers.png">
   </a>
     <a href="https://assignment-11-tan-xi.vercel.app/"
       target="blank" >
-    <img height="150" width="150" src="./assests/Food Tracker.png">
+    <img height="220" width="250" src="./assests/Food Tracker.png">
   </a>
     <a href="https://final-assignment-tau.vercel.app/"
       target="blank" >
-    <img height="150" width="150" src="./assests/food and beverage.png">
+    <img height="220" width="250" src="./assests/food and beverage.png">
   </a>
 </p>
-
-<br />
-
-[<p align="center"><img height="75" src="https://i.ibb.co/ZH68rnm/Class-crafers.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://i.ibb.co/w04sgFJ/food-and-beverage-2.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://i.ibb.co/k3yzMM3/Food-Tracker.png"> </p>](https://twitter.com/_mir_hussain_)
-
-<br />
 
 ## :briefcase:: Currently Working on
 
