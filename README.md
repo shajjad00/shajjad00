@@ -50,6 +50,12 @@
   </a>
 </p>
 
+<br />
+
+[<p align="center"><img height="75" src="https://i.ibb.co/ZH68rnm/Class-crafers.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://i.ibb.co/w04sgFJ/food-and-beverage-2.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://i.ibb.co/k3yzMM3/Food-Tracker.png"> </p>](https://twitter.com/_mir_hussain_)
+
+<br />
+
 ## :briefcase:: Currently Working on
 
 ### 🌱 Front-end developer building interactive UIs with React, JavaScript, Tailwind CSS, HTML, and CSS. Passionate about learning and contributing to meaningful projects.
