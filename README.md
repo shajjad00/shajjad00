@@ -17,7 +17,7 @@
 ## :chart_with_upwards_trend: Summary Card
 
 <br />
-<p align="center" display='flex'>
+<p align="center">
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajjad00&theme=github_dark" />
   <p align="center">
   <img alt="Light" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shajjad00&theme=github_dark" height="480"  width="45%">
