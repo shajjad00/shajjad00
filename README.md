@@ -38,18 +38,20 @@
 <p align="center">
   <a href="https://final-assignment-tau.vercel.app/"
       target="blank" >
-    <img height="220" width="250" src="./assests/Class crafers.png">
+    <img height="2" width="250" src="./assests/Class crafers.png">
   </a>
     <a href="https://assignment-11-tan-xi.vercel.app/"
       target="blank" >
-    <img height="220" width="250" src="./assests/Food Tracker.png">
+    <img height="2" width="250" src="./assests/Food Tracker.png">
   </a>
     <a href="https://final-assignment-tau.vercel.app/"
       target="blank" >
-    <img height="220" width="250" src="./assests/food and beverage.png">
+    <img height="2" width="250" src="./assests/food and beverage.png">
   </a>
 </p>
 
 ## :briefcase:: Currently Working on
 
 ### 🌱 Front-end developer building interactive UIs with React, JavaScript, Tailwind CSS, HTML, and CSS. Passionate about learning and contributing to meaningful projects.
+
+<a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by kornkun - Flaticon</a>
