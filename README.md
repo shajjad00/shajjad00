@@ -53,6 +53,7 @@
 <tr>
 <td>
 <pre lang="js">
+ <img height="220" width="250" src="./assests/Class crafers.png">
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
 console.log(fullName); // Dariana Trahan
@@ -61,6 +62,7 @@ var fullName;
 </td>
 <td>
 <pre lang="js">
+<img height="220" width="250" src="./assests/Food Tracker.png">
 var fullName;
 console.log(fullName); // undefined
 fullName = "Dariana Trahan";
