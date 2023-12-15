@@ -10,8 +10,12 @@
   <img src="/assests/HTML.png">
   <img src="/assests/css.png">
   <img src="/assests/tailwind.png">
+</p>
+<p align="center">
   <img src="/assests/JavaScript.png">
   <img src="/assests/react.png">
+  <img src="/assests/firebase.png">
+  <img src="/assests/node.png">
 </p>
 
 ## :chart_with_upwards_trend: Summary Card
