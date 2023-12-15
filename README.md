@@ -10,8 +10,7 @@
   <img src="/assests/HTML.png">
   <img src="/assests/css.png">
   <img src="/assests/tailwind.png">
-</p>
-<p align="center">
+  <br />
   <img src="/assests/JavaScript.png">
   <img src="/assests/react.png">
   <img src="/assests/firebase.png">
