@@ -38,12 +38,16 @@
 ## :briefcase:: My Projects
 
 <p align="center">
-<a target="blank" href="https://final-assignment-tau.vercel.app/">
-    <img height="220" width="250" src="./assests/Class crafers.png"></a>
+  <a target="blank" href="https://final-assignment-tau.vercel.app/">
+    <img height="220" width="250" src="./assests/Class crafers.png">
+  </a>
+  <a target="blank" href="https://assignment-11-tan-xi.vercel.app/">
     <img height="220" width="250" src="./assests/Food Tracker.png">
+  </a>
+  <a target="blank" href="https://food-and-beverage-clinet.vercel.app/">
     <img height="220" width="250" src="./assests/food and beverage.png">
+  </a>
 </p>
-[<p align="center"><img height="220" width="250" src="./assests/Class crafers.png">](https://final-assignment-tau.vercel.app/)[<img height="220" width="250" src="./assests/Food Tracker.png">](https://assignment-11-tan-xi.vercel.app/)[<img height="220" width="250" src="./assests/food and beverage.png"> </p>](https://twitter.com/_mir_hussain_)
 
 ## :briefcase:: Currently Working on
 
