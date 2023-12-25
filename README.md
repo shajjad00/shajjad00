@@ -38,7 +38,7 @@
 ## :briefcase:: My Projects
 
 <p align="center">
-<a href="https://final-assignment-tau.vercel.app/">
+<a target="blank" href="https://final-assignment-tau.vercel.app/">
     <img height="220" width="250" src="./assests/Class crafers.png"></a>
     <img height="220" width="250" src="./assests/Food Tracker.png">
     <img height="220" width="250" src="./assests/food and beverage.png">
