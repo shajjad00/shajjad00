@@ -37,13 +37,12 @@
 
 ## :briefcase:: My Projects
 
-## 🌐
-
 <p align="center">
     <img height="220" width="250" src="./assests/Class crafers.png">
     <img height="220" width="250" src="./assests/Food Tracker.png">
     <img height="220" width="250" src="./assests/food and beverage.png">
 </p>
+[<p align="center"><img height="220" width="250" src="./assests/Class crafers.png">](https://final-assignment-tau.vercel.app/)[<img height="220" width="250" src="./assests/Food Tracker.png">](https://assignment-11-tan-xi.vercel.app/)[<img height="220" width="250" src="./assests/food and beverage.png"> </p>](https://twitter.com/_mir_hussain_)
 
 ## :briefcase:: Currently Working on
 
